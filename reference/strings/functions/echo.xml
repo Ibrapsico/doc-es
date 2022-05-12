@@ -84,7 +84,7 @@ I have <?=$foo?> foo.
 echo "Hola mundo";
 
 echo "Esto abarca
-multiple líneas. Los saltos de línea también
+múltiples líneas. Los saltos de línea también
 se mostrarán";
 
 echo "Esto abarca\nmúltiples líneas. Los saltos de línea también\nse mostrarán.";
@@ -111,7 +111,7 @@ echo $foo,$bar;     // foobarbarbaz
 
 // Las cadenas pueden ser pasadas individualmente como varios argumentos o
 // concatenadas como un único argumento
-echo 'Esta ', 'cadena ', 'está ', 'hecha ', 'con múltiple parámetros.', chr(10);
+echo 'Esta ', 'cadena ', 'está ', 'hecha ', 'con múltiples parámetros.', chr(10);
 echo 'Esta ' . 'cadena ' . 'está ' . 'hecha ' . 'con concatenación.' . "\n";
 
 echo <<<END
